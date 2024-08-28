@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+src/wishbone/wishbone_gui.py
+src/wishbone/__init__.py
+src/wishbone/autocomplete_entry.py
+src/wishbone/core.py
+src/wishbone/wb.py
+src/wishbone/wishbone_gui.py
+src/wishbone.egg-info/PKG-INFO
+src/wishbone.egg-info/SOURCES.txt
+src/wishbone.egg-info/dependency_links.txt
+src/wishbone.egg-info/requires.txt
+src/wishbone.egg-info/top_level.txt
